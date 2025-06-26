@@ -85,15 +85,9 @@ INSERT INTO Voter (VoterID, FirstName, MiddleName, LastName, Gender, DOB, PhoneN
 ('ZAB6789012', 'Rashmi', 'Ramesh', 'Shinde', 'Female', '1994-09-21', '8532109876', 0, '495051525354', 'Green Valley', 'Rethal', 'Ahmedabad', 'Gujarat', 382120),
 ('CDE7890123', 'Sandeep', 'Harish', 'Patil', 'Male', '1982-01-15', '8521098765', 0, '505152535455', 'Sunrise Avenue', 'Rethal', 'Ahmedabad', 'Gujarat', 382120),
 ('FGH8901234', 'Neha', 'Mahesh', 'More', 'Female', '1991-11-29', '8510987654', 0, '515253545556', 'Hill Crest', 'Rethal', 'Ahmedabad', 'Gujarat', 382120),
-
-
 ('IJK9012345', 'Aakash', 'Suresh', 'Kamble', 'Male', '1985-04-23', '8509876543', 0, '525354555657', 'River View', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
 ('LMN0123456', 'Pallavi', 'Rajesh', 'Shah', 'Female', '1993-08-07', '8498765432', 0, '535455565758', 'Garden Enclave', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
 ('OPQ3456789', 'Vikas', 'Manoj', 'Joshi', 'Male', '1986-11-18', '8287654321', 0, '747576777879', 'Main Road', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
-
-
-
-
 ('QWE2345678', 'Dhruv', 'Ramesh', 'Patel', 'Male', '1988-05-14', '8232109876', 0, '797980818284', 'Sunrise Park', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
 ('RTY3456789', 'Mitali', 'Suresh', 'Shah', 'Female', '1994-09-23', '8221098765', 0, '808182838485', 'Green Avenue', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
 ('UIO4567890', 'Jay', 'Mahesh', 'Mehta', 'Male', '1982-12-11', '8210987654', 0, '818283848586', 'Lakeview Road', 'Jaspur', 'Ahmedabad', 'Gujarat', 382130),
