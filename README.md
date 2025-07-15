@@ -71,24 +71,8 @@ Open with any image or PDF viewer.
 
 ---
 
-## 🤝 Contributing
 
-```bash
-# Fork the repo and clone
-git clone https://github.com/<your-username>/Votelytics.git
 
-# Create a feature branch
-git checkout -b feature-name
-
-# Make changes and commit
-git add .
-git commit -m "Added new feature"
-
-# Push and create a PR
-git push origin feature-name
-```
-
----
 
 
 
